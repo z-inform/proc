@@ -1,0 +1,13 @@
+#pragma once
+enum cmdCodes {
+PUSH,
+POP,
+ADD,
+MUL,
+SUB,
+DIV,
+PRNT,
+SKP,
+HLT
+};
+
